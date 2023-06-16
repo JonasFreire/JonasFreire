@@ -1,4 +1,11 @@
-### Hi there ??
+# Olá, eu sou Jonas Freire
+
+```ruby 
+class Programmer
+
+	def initialize() 
+```
+
 
 <!--
 **JonasFreire/JonasFreire** is a ? _special_ ? repository because its `README.md` (this file) appears on your GitHub profile.
